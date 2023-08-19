@@ -1,0 +1,156 @@
+[
+  {
+    "Note": "=",
+    "TypeOfTransaction": "typeOfTransaction",
+    "CustomerName": "customerName",
+    "CustomerAccount": "customerAccount;",
+    "TransactionAmount": "null"
+  },
+  {
+    "Note": "Free",
+    "TypeOfTransaction": "deposit",
+    "CustomerName": "Shawn",
+    "CustomerAccount": "2021152027",
+    "TransactionAmount": "345"
+  },
+  {
+    "Note": "Gift",
+    "TypeOfTransaction": "deposit",
+    "CustomerName": "Bere",
+    "CustomerAccount": "2021221836",
+    "TransactionAmount": "500"
+  },
+  {
+    "Note": "Shopping",
+    "TypeOfTransaction": "withdrawl",
+    "CustomerName": "self",
+    "CustomerAccount": "2021221836",
+    "TransactionAmount": "200"
+  },
+  {
+    "Note": "Free",
+    "TypeOfTransaction": "withdrawl",
+    "CustomerName": "self",
+    "CustomerAccount": "2021221836",
+    "TransactionAmount": "200"
+  },
+  {
+    "Note": "transfer",
+    "TypeOfTransaction": "transfer",
+    "CustomerName": "Free Dream",
+    "CustomerAccount": "2021221836",
+    "TransactionAmount": "50"
+  },
+  {
+    "Note": "transfer",
+    "TypeOfTransaction": "transfer",
+    "CustomerName": "Free Dream",
+    "CustomerAccount": "2021221836",
+    "TransactionAmount": "20"
+  },
+  {
+    "Note": "Gift",
+    "TypeOfTransaction": "transfer",
+    "CustomerName": "Morgan Freeman",
+    "CustomerAccount": "2021321859",
+    "TransactionAmount": "20"
+  },
+  {
+    "Note": "Free",
+    "TypeOfTransaction": "transfer",
+    "CustomerName": "Morgan Freeman",
+    "CustomerAccount": "2021321859",
+    "TransactionAmount": "20"
+  },
+  {
+    "Note": "Sdc",
+    "TypeOfTransaction": "transfer",
+    "CustomerName": "Morgan Freeman",
+    "CustomerAccount": "2021321859",
+    "TransactionAmount": "23"
+  },
+  {
+    "Note": "Called",
+    "TypeOfTransaction": "transfer",
+    "CustomerName": "Morgan Freeman",
+    "CustomerAccount": "2021321859",
+    "TransactionAmount": "40"
+  },
+  {
+    "Note": "Damn",
+    "TypeOfTransaction": "transfer",
+    "CustomerName": "Morgan Freeman",
+    "CustomerAccount": "2021321859",
+    "TransactionAmount": "21"
+  },
+  {
+    "Note": "Cdss",
+    "TypeOfTransaction": "transfer",
+    "CustomerName": "Morgan Freeman",
+    "CustomerAccount": "2021321859",
+    "TransactionAmount": "4"
+  },
+  {
+    "Note": "Seed",
+    "TypeOfTransaction": "transfer",
+    "CustomerName": "Morgan Freeman",
+    "CustomerAccount": "2021321859",
+    "TransactionAmount": "34"
+  },
+  {
+    "Note": "Gift",
+    "TypeOfTransaction": "deposit",
+    "CustomerName": "Tobi Cool",
+    "CustomerAccount": "2021182024",
+    "TransactionAmount": "2021182024"
+  },
+  {
+    "Note": "gift",
+    "TypeOfTransaction": "deposit",
+    "CustomerName": "free guy",
+    "CustomerAccount": "2021152027",
+    "TransactionAmount": "2021152027"
+  },
+  {
+    "Note": "free",
+    "TypeOfTransaction": "deposit",
+    "CustomerName": "tyga Christ",
+    "CustomerAccount": "2021152027",
+    "TransactionAmount": "2021152027"
+  },
+  {
+    "Note": "gift",
+    "TypeOfTransaction": "deposit",
+    "CustomerName": "Tobi Cool",
+    "CustomerAccount": "2021182024",
+    "TransactionAmount": "2021182024"
+  },
+  {
+    "Note": "drive",
+    "TypeOfTransaction": "deposit",
+    "CustomerName": "Tobi Cool",
+    "CustomerAccount": "2021182024",
+    "TransactionAmount": "2021182024"
+  },
+  {
+    "Note": "free",
+    "TypeOfTransaction": "deposit",
+    "CustomerName": "Tobi Cool",
+    "CustomerAccount": "2021182024",
+    "TransactionAmount": "free"
+  },
+  {
+    "Note": "gift",
+    "TypeOfTransaction": "deposit",
+    "CustomerName": "Tobi Cool",
+    "CustomerAccount": "2021182024",
+    "TransactionAmount": "gift"
+  },
+  {
+    "Note": "chill",
+    "TypeOfTransaction": "deposit",
+    "CustomerName": "tyga christ",
+    "CustomerAccount": "2021152027",
+    "TransactionAmount": "5000"
+  }
+]

@@ -1,0 +1,45 @@
+﻿@model EditProfileViewModel
+
+@{
+    ViewBag.Title = "Dashboard";
+    Layout = "_Layout.cshtml";
+}
+
+<div class="container-fluid">
+
+    <partial name="_SideBar"/>
+
+    <main role="main" class="col-md-9 ml-sm-auto col-lg-10" style="margin-top: 70px">
+        <div id="collapseOne" class="collapse hide" aria-labelledby="headingOne" data-parent="#accordion">
+            <partial name="_EditProfile" model="@Model.Profile" />
+        </div>
+
+        <div id="collapseOne1" class="collapse hide" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+                <div id="accordion">
+                    @foreach (var skill in Model.Profile.Skills)
+                    {
+                        <partial name="_EditSkill" model="skill" />
+                    }
+                    <partial name="_AddSkill" model="@Model.Profile.Skills.FirstOrDefault()" />
+                </div>
+            </div>
+        </div>
+
+        <div id="collapseOne2" class="collapse hide" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+                <div id="accordion">
+                    <partial name="_AddProject" model="@Model" />
+                    @foreach (var project in Model.Profile.Projects)
+                    {
+                        <partial name="_EditProject" model="project" />
+                    }
+                </div>
+            </div>
+        </div>
+
+
+
+    </main>
+</div>
+</div>

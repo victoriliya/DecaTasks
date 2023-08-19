@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\IndexMultiplierApp\IndexMultiplierApp\bin\Debug\netcoreapp3.1\IndexMultiplierApp.exe
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\IndexMultiplierApp\IndexMultiplierApp\bin\Debug\netcoreapp3.1\IndexMultiplierApp.deps.json
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\IndexMultiplierApp\IndexMultiplierApp\bin\Debug\netcoreapp3.1\IndexMultiplierApp.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\IndexMultiplierApp\IndexMultiplierApp\bin\Debug\netcoreapp3.1\IndexMultiplierApp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\IndexMultiplierApp\IndexMultiplierApp\bin\Debug\netcoreapp3.1\IndexMultiplierApp.dll
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\IndexMultiplierApp\IndexMultiplierApp\bin\Debug\netcoreapp3.1\IndexMultiplierApp.pdb
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\IndexMultiplierApp\IndexMultiplierApp\obj\Debug\netcoreapp3.1\IndexMultiplierApp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\IndexMultiplierApp\IndexMultiplierApp\obj\Debug\netcoreapp3.1\IndexMultiplierApp.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\IndexMultiplierApp\IndexMultiplierApp\obj\Debug\netcoreapp3.1\IndexMultiplierApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\IndexMultiplierApp\IndexMultiplierApp\obj\Debug\netcoreapp3.1\IndexMultiplierApp.dll
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\IndexMultiplierApp\IndexMultiplierApp\obj\Debug\netcoreapp3.1\IndexMultiplierApp.pdb
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\IndexMultiplierApp\IndexMultiplierApp\obj\Debug\netcoreapp3.1\IndexMultiplierApp.genruntimeconfig.cache

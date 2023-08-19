@@ -1,0 +1,62 @@
+[
+  {
+    "AccountId": "5d059fc0-5a86-4816-a61b-c2d2116c676d",
+    "AccountName": "tyga christ",
+    "AccountNumber": "2021152027",
+    "AccountType": "savings",
+    "AccountEmail": "t@t.t",
+    "AccountPassword": "$HASH|V1$10000$5Xibky44rl4zHA2Q3hEyJSViY9SMDtpA4sX8OJxKglvGIwkT",
+    "Note": null,
+    "Balance": 3700.0
+  },
+  {
+    "AccountId": "4167b8c0-3c9f-487e-af7c-491da9f47c20",
+    "AccountName": "Tobi Cool",
+    "AccountNumber": "2021182024",
+    "AccountType": "savings",
+    "AccountEmail": "f@f.f",
+    "AccountPassword": "$HASH|V1$10000$WOLnteL/OjIeLOlmvWWfq/XK79cd/eN8FtuUMoFesISDM8kw",
+    "Note": null,
+    "Balance": 2484.0
+  },
+  {
+    "AccountId": "220b1e5b-b6c3-498d-9725-0fc92c627365",
+    "AccountName": "victor rotciv",
+    "AccountNumber": "2021302034",
+    "AccountType": "savings",
+    "AccountEmail": "w@w.w",
+    "AccountPassword": "$HASH|V1$10000$ltv5H94fWxo4p12WDOCusLRFtfnMgha91iO79YY0vjCrtRFc",
+    "Note": null,
+    "Balance": 1200.0
+  },
+  {
+    "AccountId": "5022b0bd-e826-4876-a890-665fdf86a38d",
+    "AccountName": "Oguchukw MyGuy",
+    "AccountNumber": "2021092154",
+    "AccountType": "current",
+    "AccountEmail": "o@o.o",
+    "AccountPassword": "$HASH|V1$10000$W0JuHK10TcXdi2Tzmxk4HXa81j6xVc6+4ZuXq5REEyPaonMo",
+    "Note": null,
+    "Balance": 1500.0
+  },
+  {
+    "AccountId": "38281785-55db-425c-bfbf-22cd774e96a3",
+    "AccountName": "tom cruise",
+    "AccountNumber": "2021302153",
+    "AccountType": "savings",
+    "AccountEmail": "k@k.k",
+    "AccountPassword": "$HASH|V1$10000$ix3xUfphtdMFHDbqkWvFTYZY6YIDdt3AUT9ANEEinX9cq017",
+    "Note": null,
+    "Balance": 1000.0
+  },
+  {
+    "AccountId": "34c1f817-b3f7-4d17-992d-7d8bc2fc46af",
+    "AccountName": "tbone tone",
+    "AccountNumber": "2021362121",
+    "AccountType": "current",
+    "AccountEmail": "z@z.z",
+    "AccountPassword": "$HASH|V1$10000$Awhj8/DRq62yHySzsbW1otRN8U4EK6DwwE2EnM9lz87gDB0h",
+    "Note": null,
+    "Balance": 800.0
+  }
+]

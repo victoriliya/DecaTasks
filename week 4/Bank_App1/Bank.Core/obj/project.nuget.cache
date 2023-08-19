@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SiHvDLGH52uLwlgjFcxk2T/7IuFV82N5g4n24z/vHu7lgfOsGc4u01Q496BjlnJ8BlUWPWSMaSMfQ6UjRC+WTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Decagon\\week4\\Bank_App1\\Bank.Core\\Bank.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

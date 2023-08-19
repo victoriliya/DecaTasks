@@ -1,0 +1,99 @@
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.exe
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.deps.json
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.dll
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.pdb
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Login.resources
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.dll
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.pdb
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.genruntimeconfig.cache
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Properties.Resources.resources
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Core.dll
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Data.dll
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Models.dll
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Core.pdb
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Data.pdb
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Models.pdb
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.csproj.CopyComplete
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.BankDashboard.resources
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Home.resources
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.BankSignup.resources
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Deposit.resources
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Withdrawal.resources
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Balance.resources
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Statement.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.BankDashboard.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.BankSignup.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Login.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Balance.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Deposit.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Home.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Statement.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Withdrawal.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Properties.Resources.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.exe
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.deps.json
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Core.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Data.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Models.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Core.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Data.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Models.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.csproj.CopyComplete
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.genruntimeconfig.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.exe
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.deps.json
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\BankWinform.UI.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Core.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Data.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Models.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Core.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Data.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\bin\Debug\netcoreapp3.1\Bank.Models.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.BankDashboard.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.BankSignup.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Login.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Balance.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Deposit.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Home.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Statement.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Forms.UserControls.UC_Withdrawal.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.Properties.Resources.resources
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.csproj.CopyComplete
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\BankWinform.UI\obj\Debug\netcoreapp3.1\BankWinform.UI.genruntimeconfig.cache

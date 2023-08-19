@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\bin\Debug\netcoreapp3.1\MyRegex.exe
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\bin\Debug\netcoreapp3.1\MyRegex.deps.json
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\bin\Debug\netcoreapp3.1\MyRegex.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\bin\Debug\netcoreapp3.1\MyRegex.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\bin\Debug\netcoreapp3.1\MyRegex.dll
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\bin\Debug\netcoreapp3.1\MyRegex.pdb
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\obj\Debug\netcoreapp3.1\MyRegex.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\obj\Debug\netcoreapp3.1\MyRegex.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\obj\Debug\netcoreapp3.1\MyRegex.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\obj\Debug\netcoreapp3.1\MyRegex.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\obj\Debug\netcoreapp3.1\MyRegex.dll
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\obj\Debug\netcoreapp3.1\MyRegex.pdb
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\MyRegex\MyRegex\obj\Debug\netcoreapp3.1\MyRegex.genruntimeconfig.cache

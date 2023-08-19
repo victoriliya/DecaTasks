@@ -1,0 +1,32 @@
+[
+  {
+    "AccountId": "5d059fc0-5a86-4816-a61b-c2d2116c676d",
+    "AccountName": "tyga christ",
+    "AccountNumber": "2021152027",
+    "AccountType": "savings",
+    "AccountEmail": "t@t.t",
+    "AccountPassword": "$HASH|V1$10000$5Xibky44rl4zHA2Q3hEyJSViY9SMDtpA4sX8OJxKglvGIwkT",
+    "Note": null,
+    "Balance": 5000.0
+  },
+  {
+    "AccountId": "4167b8c0-3c9f-487e-af7c-491da9f47c20",
+    "AccountName": "Tobi Cool",
+    "AccountNumber": "2021182024",
+    "AccountType": "savings",
+    "AccountEmail": "f@f.f",
+    "AccountPassword": "$HASH|V1$10000$WOLnteL/OjIeLOlmvWWfq/XK79cd/eN8FtuUMoFesISDM8kw",
+    "Note": null,
+    "Balance": 2000.0
+  },
+  {
+    "AccountId": "5000cba4-344b-4c19-a472-5e4e2c55cff0",
+    "AccountName": "susu dabinci",
+    "AccountNumber": "2021562044",
+    "AccountType": "savings",
+    "AccountEmail": "s@s.s",
+    "AccountPassword": "$HASH|V1$10000$rs9KS6AYvPNI8m61M4GC8tOsiu38pup9tchRDYEOfsu1+0ME",
+    "Note": null,
+    "Balance": 0.0
+  }
+]

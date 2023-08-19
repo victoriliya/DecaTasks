@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.exe
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.deps.json
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.dll
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.dll
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.genruntimeconfig.cache
+C:\Users\hp\Desktop\Decagon\Week 2\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.csprojAssemblyReference.cache

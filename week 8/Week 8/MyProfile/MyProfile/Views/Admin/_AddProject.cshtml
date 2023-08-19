@@ -1,0 +1,88 @@
+﻿
+@model EditProfileViewModel
+
+@{
+    var project = @Model.Profile.Projects.FirstOrDefault();
+    var items = Model.Profile.Skills.ToList();
+}
+
+<!-- Button trigger modal -->
+
+<button type="button" class="btn btn-primary mybutton" data-toggle="modal" data-target="#add-new-project">
+    Add Project
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="add-new-project" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <form method="post" asp-action="UpdateProject" asp-controller="Admin">
+
+                    <div class="form-group m-1">
+                        <label asp-for=" @project.ProjectName"></label>
+                        <input asp-for=" @project.ProjectName" placeholder="" class="form-control" value="" />
+                        <small class="mb-1 text-danger"><span asp-validation-for=" @project.ProjectName"></span></small>
+                    </div>
+                    <div class="form-group m-1">
+                        <label asp-for=" @project.ProjectDescription"></label>
+                        <input asp-for=" @project.ProjectDescription" placeholder="" class="form-control" value="" />
+                        <small class="mb-1 text-danger"><span asp-validation-for=" @project.ProjectDescription"></span></small>
+                    </div>
+
+                    <div class="form-group m-1">
+                        <label asp-for=" @project.ProjectSnapShop"></label>
+                        <input asp-for=" @project.ProjectSnapShop" value="" placeholder="" class="form-control" />
+                        <small class="mb-1 text-danger"><span asp-validation-for=" @project.ProjectSnapShop" value="@project.ProjectSnapShop"></span></small>
+                    </div>
+
+                    <div class="form-group m-1">
+                        <label asp-for=" @project.ProjectLink"></label>
+                        <input asp-for=" @project.ProjectLink" value="" placeholder="" class="form-control" />
+                        <small class="mb-1 text-danger"><span asp-validation-for="@project.ProjectLink"></span></small>
+                    </div>
+                    <div class="form-group m-1">
+                        <label asp-for=" @project.ProjectGitReposiory"></label>
+                        <input asp-for=" @project.ProjectGitReposiory" value="" placeholder="" class="form-control" />
+                        <small class="mb-1 text-danger"><span asp-validation-for=" @project.ProjectGitReposiory"></span></small>
+                    </div>
+                    <div class="form-group m-1">
+                        <label asp-for=" @project.ProjectDemoVideoLink"></label>
+                        <input asp-for=" @project.ProjectDemoVideoLink" value="" placeholder="" class="form-control" />
+                        <small class="mb-1 text-danger"><span asp-validation-for=" @project.ProjectDemoVideoLink"></span></small>
+                    </div>
+                    <div class="form-group m-1">
+                        <label asp-for=" @project.ProjectStartDate"></label>
+                        <input asp-for=" @project.ProjectStartDate" value="" placeholder="" class="form-control" />
+                        <small class="mb-1 text-danger"><span asp-validation-for=" @project.ProjectStartDate"></span></small>
+                    </div>
+
+                    <div class="form-group m-1">
+                        <select asp-for="@Model.Profile.Skills" class="form-control-range">       
+                            @foreach (var item in items)
+                            {
+                                <option value="@item.SkillId">@item.SkillName</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Save changes</button>
+                    </div>
+
+
+                </form>
+
+            </div>
+
+        </div>
+    </div>
+</div>

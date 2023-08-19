@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Decagon\Week 2\RemoveAllItemFromArrayList\RemoveAllItemFromArrayList\bin\Debug\netcoreapp3.1\RemoveAllItemFromArrayList.exe
+C:\Users\hp\Desktop\Decagon\Week 2\RemoveAllItemFromArrayList\RemoveAllItemFromArrayList\bin\Debug\netcoreapp3.1\RemoveAllItemFromArrayList.deps.json
+C:\Users\hp\Desktop\Decagon\Week 2\RemoveAllItemFromArrayList\RemoveAllItemFromArrayList\bin\Debug\netcoreapp3.1\RemoveAllItemFromArrayList.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\Week 2\RemoveAllItemFromArrayList\RemoveAllItemFromArrayList\bin\Debug\netcoreapp3.1\RemoveAllItemFromArrayList.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\Week 2\RemoveAllItemFromArrayList\RemoveAllItemFromArrayList\bin\Debug\netcoreapp3.1\RemoveAllItemFromArrayList.dll
+C:\Users\hp\Desktop\Decagon\Week 2\RemoveAllItemFromArrayList\RemoveAllItemFromArrayList\bin\Debug\netcoreapp3.1\RemoveAllItemFromArrayList.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\RemoveAllItemFromArrayList\RemoveAllItemFromArrayList\obj\Debug\netcoreapp3.1\RemoveAllItemFromArrayList.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\RemoveAllItemFromArrayList\RemoveAllItemFromArrayList\obj\Debug\netcoreapp3.1\RemoveAllItemFromArrayList.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 2\RemoveAllItemFromArrayList\RemoveAllItemFromArrayList\obj\Debug\netcoreapp3.1\RemoveAllItemFromArrayList.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\RemoveAllItemFromArrayList\RemoveAllItemFromArrayList\obj\Debug\netcoreapp3.1\RemoveAllItemFromArrayList.dll
+C:\Users\hp\Desktop\Decagon\Week 2\RemoveAllItemFromArrayList\RemoveAllItemFromArrayList\obj\Debug\netcoreapp3.1\RemoveAllItemFromArrayList.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\RemoveAllItemFromArrayList\RemoveAllItemFromArrayList\obj\Debug\netcoreapp3.1\RemoveAllItemFromArrayList.genruntimeconfig.cache

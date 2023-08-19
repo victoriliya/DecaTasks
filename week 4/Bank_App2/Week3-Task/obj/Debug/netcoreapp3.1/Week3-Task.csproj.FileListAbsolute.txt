@@ -1,0 +1,26 @@
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Week3-Task.exe
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Week3-Task.deps.json
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Week3-Task.runtimeconfig.json
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Week3-Task.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Week3-Task.dll
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Week3-Task.pdb
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.AssemblyInfo.cs
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.dll
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.pdb
+C:\Users\hp\Desktop\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.genruntimeconfig.cache
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Week3-Task.exe
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Week3-Task.deps.json
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Week3-Task.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Week3-Task.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Week3-Task.dll
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Week3-Task.pdb
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.dll
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.pdb
+C:\Users\hp\Desktop\Decagon\Week 3\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Week3-Task.genruntimeconfig.cache

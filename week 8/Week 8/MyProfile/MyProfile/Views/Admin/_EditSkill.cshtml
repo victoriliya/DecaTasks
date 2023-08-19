@@ -1,0 +1,57 @@
+﻿
+@model Skill
+
+
+@{
+    var uniqueId = @Model.SkillName[0] + Model.SkillId.ToString();
+}
+
+
+
+<!-- Button trigger modal -->
+
+<button type="button" class="btn btn-primary mybutton" data-toggle="modal" data-target="#@uniqueId">
+    @Model.SkillName
+</button>
+<!-- Modal -->
+
+<div class="modal fade" id="@uniqueId" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <form method="post" asp-action="UpdateSkill" asp-controller="Admin">
+                    <input type="hidden" asp-for="@Model.SkillId" value="@Model.SkillId">
+                    <div class="form-group m-1">
+                        <label asp-for=" @Model.SkillName"></label>
+                        <input asp-for=" @Model.SkillName" placeholder="Skill Name" class="form-control" value="@Model.SkillName" />
+                        <small class="mb-1 text-danger"><span asp-validation-for=" @Model.SkillName"></span></small>
+                    </div>
+                    <div class="form-group m-1">
+                        <label asp-for=" @Model.SkillShortName"></label>
+                        <input asp-for=" @Model.SkillShortName" placeholder="Skill Short Name" class="form-control" value="@Model.SkillShortName" />
+                        <small class="mb-1 text-danger"><span asp-validation-for=" @Model.SkillShortName"></span></small>
+                    </div>
+
+                    <div class="form-group m-1">
+                        <label asp-for=" @Model.SkillDescription"></label>
+                        <input asp-for=" @Model.SkillDescription" placeholder="Skill Short Name" class="form-control" />
+                        <small class="mb-1 text-danger"><span asp-validation-for=" @Model.SkillDescription" value="@Model.SkillDescription"></span></small>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Save changes</button>
+                    </div>
+                </form>
+
+            </div>
+
+        </div>
+    </div>
+</div>

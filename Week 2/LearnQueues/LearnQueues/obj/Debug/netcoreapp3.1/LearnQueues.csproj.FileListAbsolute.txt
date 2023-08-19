@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Decagon\Week 2\LearnQueues\LearnQueues\bin\Debug\netcoreapp3.1\LearnQueues.exe
+C:\Users\hp\Desktop\Decagon\Week 2\LearnQueues\LearnQueues\bin\Debug\netcoreapp3.1\LearnQueues.deps.json
+C:\Users\hp\Desktop\Decagon\Week 2\LearnQueues\LearnQueues\bin\Debug\netcoreapp3.1\LearnQueues.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\Week 2\LearnQueues\LearnQueues\bin\Debug\netcoreapp3.1\LearnQueues.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\Week 2\LearnQueues\LearnQueues\bin\Debug\netcoreapp3.1\LearnQueues.dll
+C:\Users\hp\Desktop\Decagon\Week 2\LearnQueues\LearnQueues\bin\Debug\netcoreapp3.1\LearnQueues.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\LearnQueues\LearnQueues\obj\Debug\netcoreapp3.1\LearnQueues.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\LearnQueues\LearnQueues\obj\Debug\netcoreapp3.1\LearnQueues.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 2\LearnQueues\LearnQueues\obj\Debug\netcoreapp3.1\LearnQueues.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\LearnQueues\LearnQueues\obj\Debug\netcoreapp3.1\LearnQueues.dll
+C:\Users\hp\Desktop\Decagon\Week 2\LearnQueues\LearnQueues\obj\Debug\netcoreapp3.1\LearnQueues.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\LearnQueues\LearnQueues\obj\Debug\netcoreapp3.1\LearnQueues.genruntimeconfig.cache

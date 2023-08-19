@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\bin\Debug\netcoreapp3.1\LearnMethods.exe
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\bin\Debug\netcoreapp3.1\LearnMethods.deps.json
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\bin\Debug\netcoreapp3.1\LearnMethods.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\bin\Debug\netcoreapp3.1\LearnMethods.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\bin\Debug\netcoreapp3.1\LearnMethods.dll
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\bin\Debug\netcoreapp3.1\LearnMethods.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\obj\Debug\netcoreapp3.1\LearnMethods.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\obj\Debug\netcoreapp3.1\LearnMethods.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\obj\Debug\netcoreapp3.1\LearnMethods.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\obj\Debug\netcoreapp3.1\LearnMethods.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\obj\Debug\netcoreapp3.1\LearnMethods.dll
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\obj\Debug\netcoreapp3.1\LearnMethods.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\LearnMethods\LearnMethods\obj\Debug\netcoreapp3.1\LearnMethods.genruntimeconfig.cache

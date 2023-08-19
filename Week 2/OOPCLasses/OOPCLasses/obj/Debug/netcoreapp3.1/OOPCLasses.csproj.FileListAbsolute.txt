@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\obj\Debug\netcoreapp3.1\OOPCLasses.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\obj\Debug\netcoreapp3.1\OOPCLasses.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\obj\Debug\netcoreapp3.1\OOPCLasses.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\obj\Debug\netcoreapp3.1\OOPCLasses.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\bin\Debug\netcoreapp3.1\OOPCLasses.exe
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\bin\Debug\netcoreapp3.1\OOPCLasses.deps.json
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\bin\Debug\netcoreapp3.1\OOPCLasses.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\bin\Debug\netcoreapp3.1\OOPCLasses.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\bin\Debug\netcoreapp3.1\OOPCLasses.dll
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\bin\Debug\netcoreapp3.1\OOPCLasses.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\obj\Debug\netcoreapp3.1\OOPCLasses.dll
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\obj\Debug\netcoreapp3.1\OOPCLasses.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\OOPCLasses\OOPCLasses\obj\Debug\netcoreapp3.1\OOPCLasses.genruntimeconfig.cache

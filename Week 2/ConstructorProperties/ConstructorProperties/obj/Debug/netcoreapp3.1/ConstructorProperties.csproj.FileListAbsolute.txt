@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\bin\Debug\netcoreapp3.1\ConstructorProperties.exe
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\bin\Debug\netcoreapp3.1\ConstructorProperties.deps.json
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\bin\Debug\netcoreapp3.1\ConstructorProperties.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\bin\Debug\netcoreapp3.1\ConstructorProperties.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\bin\Debug\netcoreapp3.1\ConstructorProperties.dll
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\bin\Debug\netcoreapp3.1\ConstructorProperties.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.dll
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.genruntimeconfig.cache

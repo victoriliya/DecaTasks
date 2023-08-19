@@ -1,0 +1,66 @@
+﻿@model Profile
+
+<div class="card">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="my-container">
+                <img src="~/Images/profile.jpg" alt="..." class="img-fluid rounded-circle" />
+
+
+
+                <div class="center-outer">
+                    <div class="center-inner">
+
+                        <div class="bubbles">
+                            <h3>I'm a UI/UX Designer, Software Craftsman, Chess grandmaster, a rapper and loving Dad</h3>
+                        </div>
+
+                    </div>
+                </div>
+
+
+
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="card-body my-container">
+                <h5 class="card-title">About me</h5>
+                <p class="card-text">
+                    @Model.Bio
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div id="accordion" class="section-container">
+
+    <h2 class="text-center">Skills</h2>
+    @foreach (var skill in Model.Skills)
+    {
+        <partial name="_SkillCard" model="skill" />
+    }
+</div>
+
+
+
+<section id="projects" class="project-section-container">
+    
+    <div class="container mt-5 mb-3">
+        <h2 class="text-center">Recent Projects</h2>
+        <div class="row">
+            
+            @foreach (var project in Model.Projects)
+            {
+                <partial name="_ProjectCard" model="project" />
+            }
+        </div>
+    </div>
+</section>
+
+
+
+
+

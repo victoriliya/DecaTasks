@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.Week3-Task.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\hp\Desktop\Week3-Task\.idea\.idea.Week3-Task\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

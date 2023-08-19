@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Decagon\Week 3\refactored\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Bank.Logic.exe
+C:\Users\hp\Desktop\Decagon\Week 3\refactored\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Bank.Logic.deps.json
+C:\Users\hp\Desktop\Decagon\Week 3\refactored\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Bank.Logic.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\Week 3\refactored\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Bank.Logic.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\Week 3\refactored\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Bank.Logic.dll
+C:\Users\hp\Desktop\Decagon\Week 3\refactored\Week3-Task\Week3-Task\bin\Debug\netcoreapp3.1\Bank.Logic.pdb
+C:\Users\hp\Desktop\Decagon\Week 3\refactored\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Bank.Logic.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 3\refactored\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Bank.Logic.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 3\refactored\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Bank.Logic.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 3\refactored\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Bank.Logic.dll
+C:\Users\hp\Desktop\Decagon\Week 3\refactored\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Bank.Logic.pdb
+C:\Users\hp\Desktop\Decagon\Week 3\refactored\Week3-Task\Week3-Task\obj\Debug\netcoreapp3.1\Bank.Logic.genruntimeconfig.cache

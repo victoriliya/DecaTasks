@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\LINQExpression\LINQExpression\bin\Debug\netcoreapp3.1\LINQExpression.exe
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\LINQExpression\LINQExpression\bin\Debug\netcoreapp3.1\LINQExpression.deps.json
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\LINQExpression\LINQExpression\bin\Debug\netcoreapp3.1\LINQExpression.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\LINQExpression\LINQExpression\bin\Debug\netcoreapp3.1\LINQExpression.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\LINQExpression\LINQExpression\bin\Debug\netcoreapp3.1\LINQExpression.dll
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\LINQExpression\LINQExpression\bin\Debug\netcoreapp3.1\LINQExpression.pdb
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\LINQExpression\LINQExpression\obj\Debug\netcoreapp3.1\LINQExpression.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\LINQExpression\LINQExpression\obj\Debug\netcoreapp3.1\LINQExpression.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\LINQExpression\LINQExpression\obj\Debug\netcoreapp3.1\LINQExpression.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\LINQExpression\LINQExpression\obj\Debug\netcoreapp3.1\LINQExpression.dll
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\LINQExpression\LINQExpression\obj\Debug\netcoreapp3.1\LINQExpression.pdb
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\LINQExpression\LINQExpression\obj\Debug\netcoreapp3.1\LINQExpression.genruntimeconfig.cache

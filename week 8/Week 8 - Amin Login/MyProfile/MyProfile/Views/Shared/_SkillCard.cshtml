@@ -1,0 +1,25 @@
+﻿
+@model Skill
+
+<div class="card">
+    <div class="card-header" id="headingOne">
+        <h4>@Model.SkillName</h4><p> - 3 years</p>
+        <h5 class="mb-0">
+            <button class="btn btn-link" data-toggle="collapse" data-target="#@Model.SkillName" aria-expanded="false" aria-controls="collapseOne">
+                Projects I have worked on
+            </button>
+        </h5>
+    </div>
+
+    <div id="@Model.SkillName" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+        <div class="card-body">
+            <ul>
+                @foreach (var project in Model.Projects)
+                {
+                    <partial name="_ProjectList" model="project" />
+                }
+            </ul>
+        </div>
+    </div>
+</div>
+

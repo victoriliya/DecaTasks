@@ -1,0 +1,64 @@
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.deps.json
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\Week 3\Mastered\Week3-Task\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.deps.json
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.deps.json
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App2\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App3\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.deps.json
+C:\Users\hp\Desktop\Decagon\week4\Bank_App3\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App3\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week4\Bank_App3\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App3\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App3\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\week4\Bank_App3\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\week4\Bank_App3\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\week4\Bank_App3\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week 5\Bank_App\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.deps.json
+C:\Users\hp\Desktop\Decagon\week 5\Bank_App\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\week 5\Bank_App\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week 5\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\week 5\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\week 5\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\week 5\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\week 5\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\week 5\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week 7\Bank_App\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.deps.json
+C:\Users\hp\Desktop\Decagon\week 7\Bank_App\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\week 7\Bank_App\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\July\Decagon\week 7\Bank_App\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.deps.json
+C:\Users\hp\Desktop\July\Decagon\week 7\Bank_App\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\July\Decagon\week 7\Bank_App\Bank.Commons\bin\Debug\netcoreapp3.1\Bank.Commons.pdb
+C:\Users\hp\Desktop\July\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\July\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\July\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\July\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.AssemblyInfo.cs
+C:\Users\hp\Desktop\July\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\July\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.dll
+C:\Users\hp\Desktop\July\Decagon\week 7\Bank_App\Bank.Commons\obj\Debug\netcoreapp3.1\Bank.Commons.pdb

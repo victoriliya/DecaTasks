@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Registration success Page";
+    Layout = "_Layout.cshtml";
+
+    var username = "";
+    if(!string.IsNullOrWhiteSpace(ViewBag.UserName))
+    {
+        username = ViewBag.UserName;
+    }
+
+    var errMsg = "";
+    if (!string.IsNullOrWhiteSpace(ViewBag.ErrorMessage))
+    {
+        errMsg = ViewBag.ErrorMessage;
+    }
+}
+
+<div class="d-flex justify-content-center mt-5" style="height:70vh">
+
+    <div class="border col-4 rounded p-4" style="min-height:300px">
+        @if (errMsg != "")
+        {
+            @errMsg
+        }
+        else
+        {
+            <h1 class="mb-3">Welcome @username</h1>
+            <p>Account successfully creates</p>
+        }
+
+    </div>
+
+</div>
+

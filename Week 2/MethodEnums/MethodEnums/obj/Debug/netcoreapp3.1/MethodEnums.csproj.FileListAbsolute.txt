@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Decagon\Week 2\MethodEnums\MethodEnums\bin\Debug\netcoreapp3.1\MethodEnums.exe
+C:\Users\hp\Desktop\Decagon\Week 2\MethodEnums\MethodEnums\bin\Debug\netcoreapp3.1\MethodEnums.deps.json
+C:\Users\hp\Desktop\Decagon\Week 2\MethodEnums\MethodEnums\bin\Debug\netcoreapp3.1\MethodEnums.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\Week 2\MethodEnums\MethodEnums\bin\Debug\netcoreapp3.1\MethodEnums.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\Week 2\MethodEnums\MethodEnums\bin\Debug\netcoreapp3.1\MethodEnums.dll
+C:\Users\hp\Desktop\Decagon\Week 2\MethodEnums\MethodEnums\bin\Debug\netcoreapp3.1\MethodEnums.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\MethodEnums\MethodEnums\obj\Debug\netcoreapp3.1\MethodEnums.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\MethodEnums\MethodEnums\obj\Debug\netcoreapp3.1\MethodEnums.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 2\MethodEnums\MethodEnums\obj\Debug\netcoreapp3.1\MethodEnums.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\MethodEnums\MethodEnums\obj\Debug\netcoreapp3.1\MethodEnums.dll
+C:\Users\hp\Desktop\Decagon\Week 2\MethodEnums\MethodEnums\obj\Debug\netcoreapp3.1\MethodEnums.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\MethodEnums\MethodEnums\obj\Debug\netcoreapp3.1\MethodEnums.genruntimeconfig.cache

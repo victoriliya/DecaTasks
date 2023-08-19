@@ -1,0 +1,37 @@
+﻿
+@model Project
+
+
+@{
+    var uniqueId = @Model.ProjectName[0] + Model.ProjectId.ToString();
+    string shortDesc = Model.ProjectDescription.Substring(0, 100) + "...";
+}
+
+
+    <div class="col-md-4 project-card">
+        <div class="card p-3 mb-2">
+            <div class="d-flex justify-content-between">
+                <div class="d-flex flex-row align-items-center">
+                    <div class="icon"> <i class="bx bxl-mailchimp"></i> </div>
+                    <div class="ml-2 c-details">
+                   
+                        <h6 class="m-0"> @Model.ProjectName</h6> <span class=" text-muted">1 days ago</span>
+                    </div>
+                </div>
+                <div class="badge"> <span>@Model.Skill.SkillName</span> </div>
+            </div>
+            <div class="mt-5">
+                <p>@shortDesc</p>
+                <div class="mt-5">
+                    <button class="btn btn-link underline" data-toggle="collapse" data-target="#@uniqueId" aria-expanded="false" aria-controls="collapseOne">
+                        More details
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+

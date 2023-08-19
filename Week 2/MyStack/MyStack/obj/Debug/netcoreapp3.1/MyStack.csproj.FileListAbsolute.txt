@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\bin\Debug\netcoreapp3.1\MyStack.exe
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\bin\Debug\netcoreapp3.1\MyStack.deps.json
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\bin\Debug\netcoreapp3.1\MyStack.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\bin\Debug\netcoreapp3.1\MyStack.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\bin\Debug\netcoreapp3.1\MyStack.dll
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\bin\Debug\netcoreapp3.1\MyStack.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\obj\Debug\netcoreapp3.1\MyStack.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\obj\Debug\netcoreapp3.1\MyStack.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\obj\Debug\netcoreapp3.1\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\obj\Debug\netcoreapp3.1\MyStack.dll
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\obj\Debug\netcoreapp3.1\MyStack.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\obj\Debug\netcoreapp3.1\MyStack.genruntimeconfig.cache
+C:\Users\hp\Desktop\Decagon\Week 2\MyStack\MyStack\obj\Debug\netcoreapp3.1\MyStack.csprojAssemblyReference.cache

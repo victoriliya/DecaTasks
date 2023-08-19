@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Decagon\Week 2\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.exe
+C:\Users\hp\Desktop\Decagon\Week 2\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.deps.json
+C:\Users\hp\Desktop\Decagon\Week 2\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\Week 2\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\Week 2\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.dll
+C:\Users\hp\Desktop\Decagon\Week 2\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\Week 2\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\Week 2\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.dll
+C:\Users\hp\Desktop\Decagon\Week 2\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\hp\Desktop\Decagon\Week 2\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aNTBEcSrPfZy1Nxvxe1WgpEmuIb1dmD46FgLKJy3oh01PYb5qlk4SoXBFNM0aWN07nLR6SWi7eXz5S3LJzZhGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Decagon\\week4\\Bank_App2\\BankWinform.UI\\BankWinform.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

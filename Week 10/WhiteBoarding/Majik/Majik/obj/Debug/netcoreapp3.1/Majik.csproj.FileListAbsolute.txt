@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\bin\Debug\netcoreapp3.1\Majik.exe
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\bin\Debug\netcoreapp3.1\Majik.deps.json
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\bin\Debug\netcoreapp3.1\Majik.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\bin\Debug\netcoreapp3.1\Majik.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\bin\Debug\netcoreapp3.1\Majik.dll
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\bin\Debug\netcoreapp3.1\Majik.pdb
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\obj\Debug\netcoreapp3.1\Majik.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\obj\Debug\netcoreapp3.1\Majik.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\obj\Debug\netcoreapp3.1\Majik.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\obj\Debug\netcoreapp3.1\Majik.dll
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\obj\Debug\netcoreapp3.1\Majik.pdb
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\obj\Debug\netcoreapp3.1\Majik.genruntimeconfig.cache
+C:\Users\hp\Desktop\Decagon\WhiteBoarding\Majik\Majik\obj\Debug\netcoreapp3.1\Majik.csprojAssemblyReference.cache
